@@ -1,14 +1,14 @@
 #include <iostream>
 using namespace std;
 
-int get_change(int m) {
+/*int get_change(int m) {
   	int i = m/10;
   	int j = m%10;
   	int k = j/5;
   	int l = j%5;
   	int n = i + k + l;  
   return n;
-}
+}*/
 
 
 int get_change(int m) {
